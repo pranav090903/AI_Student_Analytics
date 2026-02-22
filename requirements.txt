@@ -1,0 +1,22 @@
+# fastapi
+# uvicorn
+# pandas
+# numpy
+# scikit-learn
+# joblib
+# langchain
+# langchain-huggingface
+# huggingface_hub
+# python-dotenv
+# langchain-chains
+
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+langchain
+langchain-huggingface
+huggingface_hub
+python-dotenv
